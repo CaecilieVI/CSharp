@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Company>ITU</Company>
+    <Authors>Rasmus Lystrøm and Paolo Tell</Authors>
+    <Copyright>Copyright © ITU 2017</Copyright>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+</Project>
